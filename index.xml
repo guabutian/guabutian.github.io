@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>瓜不甜的博客</title>
-    <link>http://localhost:1313/</link>
+    <link>https://guabutian.github.io/</link>
     <description>Recent content on 瓜不甜的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://guabutian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://guabutian.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://guabutian.github.io/about/</guid>
       
         <description>&lt;blockquote&gt;
 &lt;p&gt;个人座右铭: 言必信，行必果&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/about/%E6%88%91%E7%9A%84%E5%8D%8A%E8%BA%AB%E7%85%A7.jpg&#34; alt=&#34;这个是我的半身帅照&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://guabutian.github.io/about/%E6%88%91%E7%9A%84%E5%8D%8A%E8%BA%AB%E7%85%A7.jpg&#34; alt=&#34;这个是我的半身帅照&#34;&gt;
 哈喽，我是瓜不甜，欢迎来到我的博客呀&lt;/p&gt;
 &lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
 &lt;p&gt;我是一个后端软件开发工程师，2016年6月份大学毕业，进入社会以来，一直在代码行业里摸爬滚打，是一个有趣的程序员&lt;/p&gt;
